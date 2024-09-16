@@ -1,6 +1,6 @@
 const topics = ["HTML", "CSS", "Git", "JavaScript"];
 const randomTopic = topics[Math.floor(Math.random() * topics.length)];
-const shapes = ["Circle", "Square", "Sherman", "Squidward"];
+/*const shapes = ["Circle", "Square", "Sherman", "Squidward"];*/
 
 function listTopics() {
     for (let i = 0; i < topics.length; i++) {
